@@ -26,7 +26,7 @@ body{
 /* header start */
 
 .header{
-    background: orange;
+    background: chocolate;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
